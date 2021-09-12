@@ -1,0 +1,19 @@
+de/gittimchub/mapory/ui/components/GeocodePanel.java
+ de.gittimchub.mapory.ui.components.GeocodePanel
+ de.gittimchub.mapory.ui.components.GeocodePanel$1
+de/gittimchub/mapory/image/Geotagging.java
+ de.gittimchub.mapory.image.Geotagging
+de/gittimchub/mapory/ui/components/ThumbnailPanel.java
+ de.gittimchub.mapory.ui.components.ThumbnailPanel
+ de.gittimchub.mapory.ui.components.ThumbnailPanel$1
+de/gittimchub/mapory/ui/components/FolderTree.java
+ de.gittimchub.mapory.ui.components.FolderTree
+de/gittimchub/mapory/ui/FolderViewer.java
+ de.gittimchub.mapory.ui.FolderViewer
+ de.gittimchub.mapory.ui.FolderViewer$1
+ de.gittimchub.mapory.ui.FolderViewer$2
+ de.gittimchub.mapory.ui.FolderViewer$3
+de/gittimchub/mapory/ui/SelectionRegistry.java
+ de.gittimchub.mapory.ui.SelectionRegistry
+de/gittimchub/mapory/ui/Main.java
+ de.gittimchub.mapory.ui.Main
